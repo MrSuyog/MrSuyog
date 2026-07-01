@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">A backend-focused developer building with Java & Spring Boot 🚀</h3>
 
-
-- 🌱 I'm currently learning **Spring Boot**, **REST APIs**, and **Backend System Design**,**Full-Stack Web Development**
+- 🌱 I'm currently learning **Spring Boot**, **REST APIs**, and **Backend System Design**, **Full-Stack Web Development**
 - 🖼️ All of my projects are available at [github.com/MrSuyog](https://github.com/MrSuyog)
-- 💬 Ask me about **Java, Spring Boot, MySQL, HTML/CSS/JS**
+- 💬 Ask me about **Java, Spring, Hibernate, Spring Boot, MySQL, HTML/CSS/JS**
 - 📫 How to reach me **suyogsonawane555@gmail.com**
 - 📄 Know about my experience [mrsuyog.github.io/portfolio](https://mrsuyog.github.io/portfolio/)
 - ⚡ Fun fact: **I debug in Java, but I dream in Spring Boot**
@@ -12,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/suyog-s-sonawane" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:suyogsonawane555@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:suyogsonawane555@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -67,9 +66,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSuyog&show_icons=true&locale=en&theme=default" alt="MrSuyog" width="48%" />
-</p>
-
-<p align="left">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSuyog&theme=default" alt="MrSuyog streak" width="48%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSuyog&show_icons=true&locale=en&theme=default&cache_seconds=3600" alt="MrSuyog GitHub Stats" width="48%" />
+<img align="center" src="https://streak-stats.demolab.com?user=MrSuyog&theme=default" alt="MrSuyog GitHub Streak" width="48%" />
 </p>
