@@ -2,10 +2,10 @@
 <h3 align="center">A backend-focused developer building with Java & Spring Boot 🚀</h3>
 
 - 🌱 I'm currently learning **Spring Boot**, **REST APIs**, and **Backend System Design**, **Full-Stack Web Development**
-- 🖼️ All of my projects are available at [github.com/MrSuyog](https://github.com/MrSuyog)
+- 🖼️ All of my projects are available at [github.com/Suyog-Sonawane](https://github.com/Suyog-Sonawane)
 - 💬 Ask me about **Java, Spring, Hibernate, Spring Boot, MySQL, HTML/CSS/JS**
 - 📫 How to reach me **suyogsonawane555@gmail.com**
-- 📄 Know about my experience [mrsuyog.github.io/portfolio](https://mrsuyog.github.io/portfolio/)
+- 📄 Know about my experience [Suyog-Sonawane.github.io/portfolio](https://Suyog-Sonawane.github.io/portfolio/)
 - ⚡ Fun fact: **I debug in Java, but I dream in Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
