@@ -5,6 +5,7 @@
 - 🖼️ All of my projects are available at [github.com/Suyog-Sonawane](https://github.com/Suyog-Sonawane)
 - 💬 Ask me about **Java, Spring, Hibernate, Spring Boot, MySQL, HTML/CSS/JS**
 - 📫 How to reach me **suyogsonawane555@gmail.com**
+- 💬 Connect with me on Linkedin [https://www.linkedin.com/in/suyog-s-sonawane](https://www.linkedin.com/in/suyog-s-sonawane)
 - 📄 Know about my experience [Suyog-Sonawane.github.io/portfolio](https://Suyog-Sonawane.github.io/portfolio/)
 - ⚡ Fun fact: **I debug in Java, but I dream in Spring Boot**
 
