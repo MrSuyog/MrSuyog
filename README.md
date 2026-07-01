@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyog</h1>
 <h3 align="center">A backend-focused developer building with Java & Spring Boot 🚀</h3>
 
-- 🏗️ I'm currently working on **portfolio**, **ChatBot**, and **online-feedback-system**
-- 🌱 I'm currently learning **Spring Boot**, **REST APIs**, and **Backend System Design**
+- 🌱 I'm currently learning **Spring Boot**, **REST APIs**, and **Backend System Design** ,**Full Stack Web-Development**
 - 🖼️ All of my projects are available at [github.com/MrSuyog](https://github.com/MrSuyog)
 - 💬 Ask me about **Java, Spring Boot, MySQL, HTML/CSS/JS**
 - 📫 How to reach me **suyogsonawane555@gmail.com**
