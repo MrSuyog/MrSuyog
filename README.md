@@ -6,7 +6,7 @@
 - 💬 Ask me about **Java, Spring, Hibernate, Spring Boot, MySQL, HTML/CSS/JS**
 - 📫 How to reach me **suyogsonawane555@gmail.com**
 - 💬 Connect with me on Linkedin [https://www.linkedin.com/in/suyog-s-sonawane](https://www.linkedin.com/in/suyog-s-sonawane)
-- 📄 Know about my experience [https://suyog-sonawane.github.io/](https://suyog-sonawane.github.io/)
+- 📄 Know about me  [https://suyog-sonawane.github.io/](https://suyog-sonawane.github.io/)
 - ⚡ Fun fact: **I debug in Java, but I dream in Spring Boot**
 
 <h3 align="left">Connect with me:</h3>
