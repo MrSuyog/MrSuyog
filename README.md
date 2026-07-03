@@ -67,6 +67,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrSuyog&show_icons=true&locale=en&theme=default&cache_seconds=3600" alt="MrSuyog GitHub Stats" width="48%" />
-<img align="center" src="https://streak-stats.demolab.com?user=MrSuyog&theme=default" alt="MrSuyog GitHub Streak" width="48%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Suyog-Sonawane&show_icons=true&locale=en&theme=default&cache_seconds=3600" alt="Suyog-Sonawane GitHub Stats" width="48%" />
+<img align="center" src="https://streak-stats.demolab.com?user=Suyog-Sonawane&theme=default" alt="Suyog-Sonawane GitHub Streak" width="48%" />
 </p>
